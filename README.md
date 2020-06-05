@@ -1,4 +1,4 @@
-From the blog post: [Parsing UDP in Elixir with Binary Pattern Matching](http://blog.rokkincat.com/parsing-udp-in-elixir-with-binary-pattern-matching/)
+From the blog post: [Parsing UDP in Elixir with Binary Pattern Matching](https://rokkincat.com/blog/2016-05-09-parsing-udp-in-elixir-with-binary-pattern-matching/)
 
 #### Your Mission
 In your (clandestine) consulting work for ACME Spy Corporation, you've been tasked with the following:
